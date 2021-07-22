@@ -9,6 +9,10 @@ package Chapter4;
  *
  * @author kyle_
  */
-public class Excersise4_14 {
-    
+class Excersise4_10_10 {
+//    int x; 
+// 
+//  MyClass() { 
+//    x = 10; 
+//  }
 }

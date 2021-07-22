@@ -9,11 +9,10 @@ package Chapter4;
  *
  * @author kyle_
  */
-public class Excersise4_11 {
-   public static void main(String args[]) {   
-    Excersise4_11_11 t1 = new Excersise4_11_11(10); 
-    Excersise4_11_11 t2 = new Excersise4_11_11(88); 
+class Excersise4_11_11 {
+    int x; 
  
-    System.out.println(t1.x + " " + t2.x); 
-  } 
+  Excersise4_11_11(int i) { 
+    x = i; 
+  }
 }
