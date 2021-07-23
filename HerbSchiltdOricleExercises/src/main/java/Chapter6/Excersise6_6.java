@@ -10,5 +10,15 @@ package Chapter6;
  * @author kyle_
  */
 public class Excersise6_6 {
-    
+    public static void main(String args[]) { 
+    Excersise6_6_6 ob = new Excersise6_6_6(15, 20); 
+ 
+    System.out.println("ob.a and ob.b before call: " + 
+                       ob.a + " " + ob.b); 
+ 
+    ob.change(ob); 
+ 
+    System.out.println("ob.a and ob.b after call: " + 
+                       ob.a + " " + ob.b); 
+  }
 }

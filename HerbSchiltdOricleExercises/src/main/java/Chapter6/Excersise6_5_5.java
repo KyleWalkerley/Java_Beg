@@ -9,11 +9,11 @@ package Chapter6;
  *
  * @author kyle_
  */
-public class Excersise6_7 {
-   public static void main(String args[]) { 
-    Excersise6_7_7 err = new Excersise6_7_7(); 
- 
-    System.out.println(err.getErrorMsg(2)); 
-    System.out.println(err.getErrorMsg(19)); 
-  } 
+class Excersise6_5_5 {
+    /* This method causes no change to the arguments 
+     used in the call. */ 
+  void noChange(int i, int j) { 
+    i = i + j; 
+    j = -j; 
+  }
 }

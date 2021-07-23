@@ -9,11 +9,12 @@ package Chapter6;
  *
  * @author kyle_
  */
-public class Excersise6_7 {
-   public static void main(String args[]) { 
-    Excersise6_7_7 err = new Excersise6_7_7(); 
+class Excersise6_8_8 {
+  String msg; // error message 
+  int severity; // code indicating severity of error 
  
-    System.out.println(err.getErrorMsg(2)); 
-    System.out.println(err.getErrorMsg(19)); 
-  } 
+  Excersise6_8_8(String m, int s) { 
+    msg = m; 
+    severity  = s; 
+  }  
 }
