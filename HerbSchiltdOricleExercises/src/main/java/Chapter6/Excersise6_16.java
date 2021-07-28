@@ -24,7 +24,7 @@ public class Excersise6_16 {
     System.out.println();
 
     // Each object shares one copy of a static variable.
-    System.out.println("The static variable y is shared.");
+    System.out.println("The static variable y is shared with.");
     Excersise6_16_1.y = 19;
     System.out.println("Set StaticDemo.y to 19.");
 
