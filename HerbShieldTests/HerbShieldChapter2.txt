@@ -1,0 +1,5 @@
+Chapter 2
+1.	Java strictly specifies the range and behaviour of its primitive types to ensure portability across platforms.
+2.	Java’s Character type is char. Java uses Unicode rather than ACII, which are used by some other languages.
+3.	False, a Boolean must be either true or false.
+4.	System.out.println(“One\nTwo\nthree”);

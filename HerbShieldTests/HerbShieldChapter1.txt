@@ -1,0 +1,25 @@
+Chapter 1
+1.	Bytecode is a highly optimized set of instructions designed to execute by what is called Java Virtual Machine, which is part of the Java Runtime
+	Environment.
+2.	Encapsulation, Inheritance, Polymorphism
+3.	Java programs begin their execution at main method.
+4.	A variable is a named memory location. The contents of a variable can be changed during the execution of a program.
+5.	D
+6.	Single line: //, multi line:/*  */.
+7.      IF:
+		if(condition)statement;
+	FOR:
+		for(Condition,initialization,iteration)statement;
+8.	Block of code begins with {
+9.	class Moon{
+		Public Static Void Main(string args[]){
+		earthweight double;
+		moonweight double;
+		earthweight = 100;
+		moonweight = earthweight *0.17;
+		system.out.print(earthweight+"Weight of earth to "+ moonweight + "moon weight.");
+		}
+	}
+10.
+11.	Syntax error
+12.	No, java is free from language.
