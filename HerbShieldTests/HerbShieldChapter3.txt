@@ -13,10 +13,20 @@ Chapter 3
 
 4.	For(int I = 1000; i> = 0; i-= 2)
 
-5.	No, I is not known outside the for loop in which it is declared.
+5.	
 
 6.	
 
 7.	After the break executes the after while will be displayed.
 
 8.	0 1, 2 3, 4 5, 6 7, 8 9.
+
+9. 	FOR (I = 1; I <100; I += i)
+	System.out.print(I + “ “);
+
+10.	
+
+11.	 An Infinite loop is a loop that run forever.
+
+12.	Yes.
+	
